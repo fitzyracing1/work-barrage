@@ -1,0 +1,36 @@
+# work
+
+> An early HTML repo named work. This wrap points back to the source.
+
+## Purpose
+Give a plain-language door to fitzyracing1/work.
+
+## How it works (plain English)
+1. Keep the original repo as the place for files.
+2. Use this clone to explain the idea.
+3. Send the reader back to the source.
+
+## Key ideas
+- work (the named shelf)
+- HTML source
+
+## The actual code
+```
+# source: fitzyracing1/work
+open_source()
+```
+
+## Line-by-line translation
+1. open_source() → “go to fitzyracing1/work”
+
+## Decisions the program makes
+- If a reader needs the files → send them to the source
+
+## What a person would notice
+A named wrap on a work shelf.
+
+## Current status
+Barrage clone.
+
+## Next possible steps
+Open fitzyracing1/work.
